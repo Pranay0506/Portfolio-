@@ -282,6 +282,9 @@ img {
 
 /* ===== SKILLS =====*/
 
+.skills__container_bd-grid{
+  padding-left: 50px;
+}
 
 .skills__container {
   row-gap: 2rem;
