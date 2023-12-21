@@ -286,6 +286,7 @@ img {
 .skills__container {
   row-gap: 2rem;
   text-align: center;
+  padding_left:50px;
 }
 
 .skills__subtitle {
